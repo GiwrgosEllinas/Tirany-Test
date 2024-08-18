@@ -1,0 +1,4 @@
+repository "Tirany Test@Gamw_Tin@cloud"
+  path "/"
+    br "/main"
+    co "/main"
