@@ -1,4 +1,4 @@
-repository "Tirany Test@Gamw_Tin@cloud"
+repository "Tirany Test 1@Gamw_Tin@cloud"
   path "/"
     br "/main"
     co "/main"
